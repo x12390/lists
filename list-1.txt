@@ -1,2 +1,1 @@
-# enter domains line by line
-tagesspiegel.de
+0.0.0.0 tagesspiegel.de
