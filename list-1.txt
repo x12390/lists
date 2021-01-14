@@ -1,3 +1,5 @@
+# Individual list
+# License: GPLv3
 
 deichstube.de
 www.deichstube.de
