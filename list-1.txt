@@ -2,4 +2,4 @@
 # License: GPLv3
 
 ka-news.de
-fnp.de
+www.ka-news.de
